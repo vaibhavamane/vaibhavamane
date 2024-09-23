@@ -20,17 +20,20 @@ Here are some ideas to get you started:
 
 <p align="left">I'm from Solapur</p>
 
+
 ###
 
 <h2 align="left">About me</h2>
 
 ###
 
-<p align="left">I am a Data Analyst<br><br><br></p>
+<p align="left">I am a Data Analyst</p>
+
+<p align="left">I have completed my Bachlors Degree in Computer Engineering<br><br><br></p>
 
 ###
 
-<h2 align="left">💬 Ask me about ...</h2>
+<h2 align="left"> 📫 How to reach me: ...</h2>
 
 ###
 

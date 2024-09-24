@@ -56,8 +56,6 @@ Here are some ideas to get you started:
 <a href="vaibhavamane05@gmail.com">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
 </a>
-
- 
 </div>
-
-###
+<h2 align="left">Skills</h2>
+<p align="left">It's Building up</p>

@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">I am a Data Analyst</p>
+<p align="left">I am a Data Analyst || Front End Developer</p>
 
 <p align="left">I have completed my Bachlors Degree in Computer Engineering<br><br><br></p>
 

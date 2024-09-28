@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ###
 
-<h2 align="left"> 📫 How to reach me: ...</h2>
+<h2 align="left"> 📫 You can reach me through: ...</h2>
 
 ###
 
@@ -48,15 +48,12 @@ Here are some ideas to get you started:
 
   <a href="https://www.facebook.com/profile.php?id=100009386064771" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo" />
-</a>
-
-
- 
-  
+</a>  
 <a href="vaibhavamane05@gmail.com">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
 </a>
 </div>
+
 <h2 align="left">Skills</h2>
 
 <div align="left">

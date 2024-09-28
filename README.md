@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 </a>
 </div>
 <h2 align="left">Skills</h2>
-<p align="left">It's Building up</p>
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" />
 <img width="12" />

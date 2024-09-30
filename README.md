@@ -1,28 +1,17 @@
-## Hi 👋, I m Vaibhav Amane
-
-![stock-vector-vector-image-of-programming-language-logos-concept-for-developers-and-it-specialists-berlin-2370541679](https://github.com/user-attachments/assets/aa87ff7c-6330-4070-a44c-e76410f9604c)
+<h1>Hi 👋, I m Vaibhav Amane</h1>
 
 
 
-###
-
-
-
-###
 
 <h2 align="left">About me</h2>
-
-###
 
 <p align="left">I am a Data Analyst || Front End Developer</p>
 
 <p align="left">I have completed my Bachlors Degree in Computer Engineering<br><br><br></p>
 
-###
 
-<h2 align="left"> 📫 You can reach me through: ...</h2>
 
-###
+<h2 align="left"> 📫 How to reach me: ...</h2>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/vaibhavamane/" target="_blank">
@@ -49,7 +38,7 @@
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" />
 <img width="12" />
-
+<a href=" ">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
 <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />

@@ -22,10 +22,10 @@
 <h2 align="left">🌐 Connect with me:</h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/vaibhavamane/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vaibhavamane/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100009386064771" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100009386064771" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/vaibhavamane/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/vaibhavamane/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/vaibhavamane/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/vaibhavamane/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/vaibhavabwz9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/vaibhavabwz9/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100009386064771" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100009386064771" height="30" width="40" /></a>
+<a href="https://www.instagram.com/vaibhavamane/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/vaibhavamane/" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/vaibhavamane/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/vaibhavamane/" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/vaibhavabwz9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/vaibhavabwz9/" height="30" width="40" /></a>
 </p>
 
 <h2 align="left">Languages and Tools:</h2>

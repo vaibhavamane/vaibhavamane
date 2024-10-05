@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Amane</h1>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=vaibhavamane&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views for vaibhavamane" />
+  
   <img src="https://img.shields.io/github/followers/vaibhavamane?label=Followers&style=flat&color=0e75b6" alt="GitHub Followers" />
 </p>
 
@@ -28,7 +28,7 @@
 <a href="https://www.linkedin.com/in/vaibhavamane/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vaibhavamane/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100009386064771" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100009386064771" height="30" width="40" /></a>
 <a href="https://www.instagram.com/vaibhavamane/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/vaibhavamane/" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/vaibhavamane/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/vaibhavamane/" height="30" width="40" /></a>
+<a href="https://leetcode.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/vaibhavabwz9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/vaibhavabwz9/" height="30" width="40" /></a>
 </p>
 

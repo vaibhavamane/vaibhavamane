@@ -30,6 +30,9 @@
 <a href="https://www.instagram.com/vaibhavamane/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/vaibhavamane/" height="30" width="40" /></a>
 <a href="https://leetcode.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/vaibhavabwz9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/vaibhavabwz9/" height="30" width="40" /></a>
+<a href="https://www.naukri.com/code360/profile/vaibhavamane" target="_blank">
+  <img align="center" src="https://avatars.githubusercontent.com/u/95543677?v=4" alt="Coding Ninjas Profile" height="30" width="40" />
+</a>
 </p>
 
 <h2 align="left">Languages and Tools:</h2>

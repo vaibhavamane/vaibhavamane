@@ -9,7 +9,8 @@
 
 
 <h2 align="left">👨🏻‍💻 About me..</h2>
-<p>💡 Hello everyone, I’m Vaibhav Amane and I'm passionate about Frontend Developer and Data Analyst.<br>
+<p>💡 Hello everyone, I’m Vaibhav Amane and I'm passionate about Data Analyst.<br>
+  👨‍💻 I am working as a Analyst in the Company.<br>
   🌱 I'm 2024 pass out graduate in BTech CSE<br>
  ⚡ I’m always looking to connect with like-minded people or collaborate on exciting new projects. Feel free to reach out to me if you’d like to chat, work together, or simply share ideas!<br>
   📫 You can email me at vaibhavamane05@gmail.com I'll try to respond as soon as possible!
